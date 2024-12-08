@@ -9,7 +9,7 @@
 <meta name="robots" content="index, follow">
 <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
 <meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
-<link rel="canonical" href="https://business.netlify.app/privacy-policy.html">
+<link rel="canonical" href="https://businesses.netlify.app/privacy-policy.html">
 <link rel="shortcut icon"  href="img/logo12.png"/>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Kumbh+Sans:100,200,300,400,500,600,700,800,900&amp;display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
@@ -18,129 +18,132 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style type="text/css">
-footer *{
-font-size:16px !important;
+.navbar a{
+font-size: 17.8px!important;
+font-weight: bold;
 }
-.bfaa1a615fbb0ab11a644637ac0ce8602 p,.bfaa1a615fbb0ab11a644637ac0ce8602 span,.bfaa1a615fbb0ab11a644637ac0ce8602 label{
-font-size:16px!important;
+a:hover{
+color:;background:!important;
 }
-ul{
-list-style: circle;
+footer{
+background:#2d2d2d;
+color:#ffffff;
 }
-.btn-md{
-padding: 15px 29.6px;
-border-radius: 0;
-}
-*{
-font-family: 'Kumbh Sans', sans-serif;
-}
-.c34185123468df47c7e286bd66ea1cfdc p,.c34185123468df47c7e286bd66ea1cfdc a,.c34185123468df47c7e286bd66ea1cfdc span,.c34185123468df47c7e286bd66ea1cfdc label{
-font-size:16px!important;
-}
-.nav-link{
-color: #3c3772!important;
-
-}
-.fc0426eaf76bdcf5923201f6c9466e2a7{
+.x415f8548ac869c161cc786136adda3f1{
 background-color:#755b10!important;
 border-color:#755b10!important;
 color:#000000!important;
 }
-html{
-scroll-behavior: smooth;
-}
-.w0a4fba7707438da33258bd19ca2de6b0:hover{
-box-shadow: 0 50.1px 50.1px -25px rgb(0 0 0 / 30%);
-transform: rotate(-2deg) scale(1.03);
-}
 a{
 text-decoration: none!important;
 }
-.c34185123468df47c7e286bd66ea1cfdc a,.bfaa1a615fbb0ab11a644637ac0ce8602 a{
-color:#0c0c0c!important;
-text-decoration: underline !important;
+.nav-link{
+color: #3c3772;
+
 }
-.navbar a{
-font-size: 17.7px!important;
-font-weight: bold;
+*{
+font-family: 'Kumbh Sans', sans-serif;
+}
+.btn-md{
+padding: 15.3px 30.5px;
+border-radius: 0;
+}
+.z496fc3dd67793ad8ad30f1400fda5aa0 p,.z496fc3dd67793ad8ad30f1400fda5aa0 span,.z496fc3dd67793ad8ad30f1400fda5aa0 label{
+font-size:16px!important;
 }
 footer a{
 color:#ffffff;
 text-decoration: underline;
 }
-.bfaa1a615fbb0ab11a644637ac0ce8602 a{
+html{
+scroll-behavior: smooth;
+}
+.z496fc3dd67793ad8ad30f1400fda5aa0 a{
 font-size:16px;
 }
-.nav-item{
-padding-left:8.4px;
-padding-right:7.5px;
-padding-top:4.9px;
-padding-bottom:4.6px;
+.t2b8697af2368fd56ebb8df0205a8fefd:hover{
+box-shadow: 0 50.2px 49.6px -25px rgb(0 0 0 / 30%);
+transform: rotate(-2deg) scale(1.03);
 }
-footer{
-background:#2e2e2e;
-color:#ffffff;
+.w734e11566dd236d420b216d45197af75 a,.z496fc3dd67793ad8ad30f1400fda5aa0 a{
+color:#070707!important;
+text-decoration: underline !important;
+}
+.nav-item{
+padding-left:8.5px;
+padding-right:7.7px;
+padding-top:4.9px;
+padding-bottom:5.2px;
+}
+.w734e11566dd236d420b216d45197af75 p,.w734e11566dd236d420b216d45197af75 a,.w734e11566dd236d420b216d45197af75 span,.w734e11566dd236d420b216d45197af75 label{
+font-size:16px!important;
+}
+footer *{
+font-size:16px !important;
+}
+ul{
+list-style: circle;
 }
 </style>
 </head>
 <body>
 <nav class="navbar-expand-lg navbar">
-<a class="navbar-brand" href="https://business.netlify.app/index.html"  ><img alt="img/logo12.png" src="img/logo12.png"  width="150px" ></a>
+<a class="navbar-brand" href="https://businesses.netlify.app/index.html"  ><img alt="img/logo12.png" src="img/logo12.png"  width="150px" ></a>
 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-<span class="navbar-toggler-icon"></span></button><div class="navbar-collapse collapse" id="navbarSupportedContent">
-<ul class="navbar-nav d-flex align-items-center ml-auto"><li class="nav-item"><a class="c297fac6e4716df4d6149634c20ff709e nav-link" href="https://business.netlify.app/news.html"  >News</a></li>
+<span class="navbar-toggler-icon"></span></button><div class="collapse navbar-collapse" id="navbarSupportedContent">
+<ul class="align-items-center ml-auto d-flex navbar-nav"><li class="nav-item"><a class="wf6a688022fb860bd61c530630e82c491 nav-link" href="https://businesses.netlify.app/news.html"  >News</a></li>
   
-<li class="dropdown  nav-item">
-<a class="c297fac6e4716df4d6149634c20ff709e nav-link dropdown-toggle" href="https://business.netlify.app/index.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">SkyQuest Aviation Business Consulting Room</a>
-<div class="dropdown-menu-right dropdown-menu" aria-labelledby="navbarDropdown">
-<a class="dropdown-item" href="https://business.netlify.app/index.html"  >SkyQuest Aviation Business Consulting Room</a>
-<a class="dropdown-item" href="https://business.netlify.app/management-consulting.html"  >Management consulting</a>
-<a class="dropdown-item" href="https://business.netlify.app/strategic-planning.html"  >Strategic planning</a>
-<a class="dropdown-item" href="https://business.netlify.app/process-improvement.html"  >Process improvement</a>
-<a class="dropdown-item" href="https://business.netlify.app/financial-advisory.html"  >Financial advisory</a>
-<a class="dropdown-item" href="https://business.netlify.app/change-management.html"  >Change management</a>
-  
-<li class=" nav-item dropdown">
-<a class="dropdown-toggle nav-link c297fac6e4716df4d6149634c20ff709e" href="https://business.netlify.app/management-consulting-1.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Management consulting</a>
+<li class="nav-item dropdown ">
+<a class="wf6a688022fb860bd61c530630e82c491 dropdown-toggle nav-link" href="https://businesses.netlify.app/index.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">SkyQuest Aviation Business Consulting Room</a>
 <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
-<a class="dropdown-item" href="https://business.netlify.app/management-consulting-1.html"  >Management consulting</a>
-<a class="dropdown-item" href="https://business.netlify.app/organizational-structure-analysis.html"  >Organizational structure analysis</a>
-<a class="dropdown-item" href="https://business.netlify.app/performance-optimization.html"  >Performance optimization</a>
-<a class="dropdown-item" href="https://business.netlify.app/leadership-development.html"  >Leadership development</a>
-<a class="dropdown-item" href="https://business.netlify.app/market-research-and-analysis.html"  >Market research and analysis</a>
-<a class="dropdown-item" href="https://business.netlify.app/risk-management.html"  >Risk management</a>
+<a class="dropdown-item" href="https://businesses.netlify.app/index.html"  >SkyQuest Aviation Business Consulting Room</a>
+<a class="dropdown-item" href="https://businesses.netlify.app/management-consulting.html"  >Management consulting</a>
+<a class="dropdown-item" href="https://businesses.netlify.app/strategic-planning.html"  >Strategic planning</a>
+<a class="dropdown-item" href="https://businesses.netlify.app/process-improvement.html"  >Process improvement</a>
+<a class="dropdown-item" href="https://businesses.netlify.app/financial-advisory.html"  >Financial advisory</a>
+<a class="dropdown-item" href="https://businesses.netlify.app/change-management.html"  >Change management</a>
   
 <li class=" dropdown nav-item">
-<a class="nav-link c297fac6e4716df4d6149634c20ff709e dropdown-toggle" href="https://business.netlify.app/strategic-planning-1.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Strategic planning</a>
+<a class="dropdown-toggle wf6a688022fb860bd61c530630e82c491 nav-link" href="https://businesses.netlify.app/management-consulting-1.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Management consulting</a>
+<div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+<a class="dropdown-item" href="https://businesses.netlify.app/management-consulting-1.html"  >Management consulting</a>
+<a class="dropdown-item" href="https://businesses.netlify.app/organizational-structure-analysis.html"  >Organizational structure analysis</a>
+<a class="dropdown-item" href="https://businesses.netlify.app/performance-optimization.html"  >Performance optimization</a>
+<a class="dropdown-item" href="https://businesses.netlify.app/leadership-development.html"  >Leadership development</a>
+<a class="dropdown-item" href="https://businesses.netlify.app/market-research-and-analysis.html"  >Market research and analysis</a>
+<a class="dropdown-item" href="https://businesses.netlify.app/risk-management.html"  >Risk management</a>
+  
+<li class="dropdown nav-item ">
+<a class="nav-link wf6a688022fb860bd61c530630e82c491 dropdown-toggle" href="https://businesses.netlify.app/strategic-planning-1.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Strategic planning</a>
 <div class="dropdown-menu-right dropdown-menu" aria-labelledby="navbarDropdown">
-<a class="dropdown-item" href="https://business.netlify.app/strategic-planning-1.html"  >Strategic planning</a>
-<a class="dropdown-item" href="https://business.netlify.app/goal-setting-and-alignment.html"  >Goal setting and alignment</a>
-<a class="dropdown-item" href="https://business.netlify.app/competitive-analysis.html"  >Competitive analysis</a>
-<a class="dropdown-item" href="https://business.netlify.app/swot-analysis.html"  >SWOT analysis</a>
-<a class="dropdown-item" href="https://business.netlify.app/vision-and-mission-statement-development.html"  >Vision and mission statement development</a>
-<a class="dropdown-item" href="https://business.netlify.app/action-plan-creation.html"  >Action plan creation</a>
+<a class="dropdown-item" href="https://businesses.netlify.app/strategic-planning-1.html"  >Strategic planning</a>
+<a class="dropdown-item" href="https://businesses.netlify.app/goal-setting-and-alignment.html"  >Goal setting and alignment</a>
+<a class="dropdown-item" href="https://businesses.netlify.app/competitive-analysis.html"  >Competitive analysis</a>
+<a class="dropdown-item" href="https://businesses.netlify.app/swot-analysis.html"  >SWOT analysis</a>
+<a class="dropdown-item" href="https://businesses.netlify.app/vision-and-mission-statement-development.html"  >Vision and mission statement development</a>
+<a class="dropdown-item" href="https://businesses.netlify.app/action-plan-creation.html"  >Action plan creation</a>
   
 <li class="dropdown  nav-item">
-<a class="dropdown-toggle c297fac6e4716df4d6149634c20ff709e nav-link" href="https://business.netlify.app/process-improvement-1.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Process improvement</a>
-<div class="dropdown-menu-right dropdown-menu" aria-labelledby="navbarDropdown">
-<a class="dropdown-item" href="https://business.netlify.app/process-improvement-1.html"  >Process improvement</a>
-<a class="dropdown-item" href="https://business.netlify.app/workflow-analysis.html"  >Workflow analysis</a>
-<a class="dropdown-item" href="https://business.netlify.app/efficiency-enhancement.html"  >Efficiency enhancement</a>
-<a class="dropdown-item" href="https://business.netlify.app/automation-implementation.html"  >Automation implementation</a>
-<a class="dropdown-item" href="https://business.netlify.app/quality-control-measures.html"  >Quality control measures</a>
-<a class="dropdown-item" href="https://business.netlify.app/lean-six-sigma-methodologies.html"  >Lean Six Sigma methodologies</a>
+<a class="nav-link wf6a688022fb860bd61c530630e82c491 dropdown-toggle" href="https://businesses.netlify.app/process-improvement-1.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Process improvement</a>
+<div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+<a class="dropdown-item" href="https://businesses.netlify.app/process-improvement-1.html"  >Process improvement</a>
+<a class="dropdown-item" href="https://businesses.netlify.app/workflow-analysis.html"  >Workflow analysis</a>
+<a class="dropdown-item" href="https://businesses.netlify.app/efficiency-enhancement.html"  >Efficiency enhancement</a>
+<a class="dropdown-item" href="https://businesses.netlify.app/automation-implementation.html"  >Automation implementation</a>
+<a class="dropdown-item" href="https://businesses.netlify.app/quality-control-measures.html"  >Quality control measures</a>
+<a class="dropdown-item" href="https://businesses.netlify.app/lean-six-sigma-methodologies.html"  >Lean Six Sigma methodologies</a>
   
 <li class="nav-item  dropdown">
-<a class="dropdown-toggle nav-link c297fac6e4716df4d6149634c20ff709e" href="https://business.netlify.app/more-articles.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">More Articles</a>
+<a class="nav-link wf6a688022fb860bd61c530630e82c491 dropdown-toggle" href="https://businesses.netlify.app/more-articles.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">More Articles</a>
 <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
-<a class="dropdown-item" href="https://business.netlify.app/more-articles.html"  >More Articles</a>
-<a class="dropdown-item" href="https://business.netlify.app/financial-advisory-1.html"  >Financial advisory</a>
-<a class="dropdown-item" href="https://business.netlify.app/budgeting-and-forecasting.html"  >Budgeting and forecasting</a>
-<a class="dropdown-item" href="https://business.netlify.app/investment-strategies.html"  >Investment strategies</a>
-<a class="dropdown-item" href="https://business.netlify.app/cash-flow-management.html"  >Cash flow management</a>
-<a class="dropdown-item" href="https://business.netlify.app/tax-planning.html"  >Tax planning</a>
-<a class="dropdown-item" href="https://business.netlify.app/merger-and-acquisition-support.html"  >Merger and acquisition support</a>
-<li class="nav-item"><a class="c297fac6e4716df4d6149634c20ff709e nav-link" rel=nofollow href="https://business.netlify.app/about-us.html">About Us</a>
+<a class="dropdown-item" href="https://businesses.netlify.app/more-articles.html"  >More Articles</a>
+<a class="dropdown-item" href="https://businesses.netlify.app/financial-advisory-1.html"  >Financial advisory</a>
+<a class="dropdown-item" href="https://businesses.netlify.app/budgeting-and-forecasting.html"  >Budgeting and forecasting</a>
+<a class="dropdown-item" href="https://businesses.netlify.app/investment-strategies.html"  >Investment strategies</a>
+<a class="dropdown-item" href="https://businesses.netlify.app/cash-flow-management.html"  >Cash flow management</a>
+<a class="dropdown-item" href="https://businesses.netlify.app/tax-planning.html"  >Tax planning</a>
+<a class="dropdown-item" href="https://businesses.netlify.app/merger-and-acquisition-support.html"  >Merger and acquisition support</a>
+<li class="nav-item"><a class="nav-link wf6a688022fb860bd61c530630e82c491" rel=nofollow href="https://businesses.netlify.app/about-us.html">About Us</a>
 </li></ul>
 </div>
 </nav>
@@ -198,24 +201,24 @@ color:#ffffff;
 <p>
 This website is owned and published by:
 SkyQuest Aviation</br>
-040-309-4575</br>
-5416  Center Street</br>
-Albuquerque, NM, 87104</br>
+087-549-6898</br>
+3141  Park Place</br>
+Arlington, TX, 76010</br>
 United States</br>
 </br>
-<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="c08aa1a3abb3afae99afb5aea790a5a1abf980a7ada1a9aceea3afad">[email&#160;protected]</a></br>
+AidenPro3@mail.com</br>
 </p>
 </section>
 <footer>
-<div class="pt-5 py-4 container" >
-<div class="row"><div class="col-lg-3"><p><a class="c297fac6e4716df4d6149634c20ff709e" href="https://business.netlify.app/sitemap.html" rel="nofollow">Sitemap</a></p>
-<p><a class="c297fac6e4716df4d6149634c20ff709e" href="https://business.netlify.app/privacy-policy.html" rel="nofollow">Privacy Policy</a></p>
-<p><a class="c297fac6e4716df4d6149634c20ff709e" href="https://business.netlify.app/about-us.html" rel="nofollow">About Us</a></p>
+<div class="py-4 container pt-5" >
+<div class="row"><div class="col-lg-3"><p><a class="wf6a688022fb860bd61c530630e82c491" href="https://businesses.netlify.app/sitemap.html" rel="nofollow">Sitemap</a></p>
+<p><a class="wf6a688022fb860bd61c530630e82c491" href="https://businesses.netlify.app/privacy-policy.html" rel="nofollow">Privacy Policy</a></p>
+<p><a class="wf6a688022fb860bd61c530630e82c491" href="https://businesses.netlify.app/about-us.html" rel="nofollow">About Us</a></p>
 </p>
 </div></div>
 </div>
 </footer> 
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+<script type="text/javascript">
 document.addEventListener('DOMContentLoaded', function() {
 var dropdowns = document.querySelectorAll('.dropdown-hover');
 function showDropdown() {
